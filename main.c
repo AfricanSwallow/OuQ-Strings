@@ -23,6 +23,7 @@ int main(void) {
 }
 
 char f(int k, long long j) {
+    //Adding something completely meaningless
     //Basis Step
     if(k == 1) {
         if(j == 0) return str[0];
